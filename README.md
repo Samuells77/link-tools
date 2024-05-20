@@ -1,15 +1,8 @@
-# Direcionador de Links
+# Link Tools
 
-Direcionador de Links que tem a função de organizar e direcionar links.
+Direcionador de links focado em ferramentas web.
 
-![preview](./.github/light-mode.jpg)
-![preview](./.github/dark-mode.jpg)
-
-## ![preview](./.github/discover.png) Discover
-
-Projeto construído a partir das aulas do Discover da Rocketseat.
-
-[🔗 Clique aqui para acessar](https://samuells77.github.io/direcionador-de-links/)
+[🔗 Clique aqui para acessar](https://samuells77.github.io/link-tools/)
 
 ## 🧰 Tecnologias
 
@@ -17,7 +10,6 @@ Projeto construído a partir das aulas do Discover da Rocketseat.
 - CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 📱 Contato
 
